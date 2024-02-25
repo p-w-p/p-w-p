@@ -1,7 +1,6 @@
 ### Hi there 👋!!
-<img src="https://t.mwm.moe/xhl/" width = "150" height = "150" alt="fox" />
-
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FINTEL-2333%2F&labelColor=%23ff8a65&countColor=%23697689)
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FINTEL-2333%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FINTEL-2333%2F&labelColor=%23ff8a65&countColor=%23697689" align=right /></a>
+<img src="https://t.mwm.moe/xhl/" width = "200" height = "200" />
 
 #### Welcome to my GitHub!!
 
