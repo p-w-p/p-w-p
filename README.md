@@ -6,7 +6,7 @@
 #### Welcome to my GitHub!!
 
 ![INTEL-2333's GitHub stats](https://github-readme-stats.vercel.app/api?username=INTEL-2333&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INTEL-2333&layout=compact)](https://github.com/INTEL-2333/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INTEL-2333&layout=compact&bg_color=00000000)](https://github.com/INTEL-2333/)
 
 
 <!--
