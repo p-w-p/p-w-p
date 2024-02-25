@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋!!
+<img src="https://t.mwm.moe/xhl/" width = "150" height = "150" alt="fox" />
+
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FINTEL-2333%2F&labelColor=%23ff8a65&countColor=%23697689)
+
+#### Welcome to my GitHub!!
+
+![INTEL-2333's GitHub stats](https://github-readme-stats.vercel.app/api?username=INTEL-2333&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INTEL-2333&layout=compact)](https://github.com/INTEL-2333/)
+
 
 <!--
 **INTEL-2333/INTEL-2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
