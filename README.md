@@ -1,6 +1,6 @@
 ### Hi there 👋!!
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCATTERY%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCATTERY%2F&labelColor=%23ff8a65&countColor=%23697689" align=right /></a>
-<img src="https://t.mwm.moe/xhl/" width = "200" height = "200" />
+<img src="https://t.alcy.cc/xhl" width = "200" height = "200" />
 
 #### Welcome to my GitHub!!!
 
