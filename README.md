@@ -4,8 +4,10 @@
 
 #### Welcome to my GitHub!!!
 
-![CATTERY's GitHub stats](https://github-readme-stats.vercel.app/api?username=CATTERY&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CATTERY&bg_color=00000000)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CATTERY&theme=nord_dark)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CATTERY&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CATTERY&theme=nord_dark)
+
 ![Fly_Fish](https://github.com/CATTERY/CATTERY/raw/main/fly_fish.png)
 
 
