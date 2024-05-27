@@ -4,9 +4,9 @@
 
 #### Welcome to my GitHub!!!
 
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CATTERY&theme=nord_dark)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CATTERY)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CATTERY&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CATTERY&theme=nord_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CATTERY) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CATTERY)
 
 ![Fly_Fish](https://github.com/CATTERY/CATTERY/raw/main/fly_fish.png)
 
